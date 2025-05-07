@@ -115,7 +115,7 @@ By addressing the above, the business can:
 | Logistic Regression (Returns)   | ![LogReg](Visuals/HEATMAP_LOGISTIC_REGRESSION.png)       |
 | SARIMA Time Series Forecasting  | ![SARIMA](Visuals/SARIMA_FORECAST.png)                   |
 | K-Means Clustering              | ![Clusters](Visuals/K_means_clustering.png)              |
-| RCA – Fishbone Diagram          | ![Fishbone](Visuals/Fishbone_Diagram _RCA.png)           |
+| RCA – Fishbone Diagram          | ![Fishbone](Visuals/Fishbone_Diagram_RCA.png)           |
 | Price Elasticity of Demand (PED)| ![PED](Visuals/AVG_PED_BUCKETS.png)                      |
 | Exploratory Data Analysis (EDA) | ![EDA](Visuals/Coropleth_plot.png)                       |
                         
